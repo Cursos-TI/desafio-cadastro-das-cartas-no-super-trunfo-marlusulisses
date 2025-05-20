@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 // Desafio Super Trunfo - Cidades
 // Tema 1 - Cadastro das Cartas
