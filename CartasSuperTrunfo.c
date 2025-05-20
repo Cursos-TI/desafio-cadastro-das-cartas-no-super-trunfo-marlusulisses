@@ -9,19 +9,19 @@ int main() {
     char estado1 = 'A';
     char codigo1[] = "A01";
     char nomeCidade1[] = "Belo Horizonte";
-    int populacao1 = 2.416.339;
+    int populacao1 = 2416339;
     float area1 = 586.528;
-    float pib1 = 1,06; // trilhões de reais
-    int pontosTuristicos1 = 50;
+    float pib1 = 1,6; // trilhões de reais
+    int pontosTuristicos1 = 5 mil;
 
-    // Variáveis da Carta 2 - Rio de Janeiro
+    // Variáveis da Carta 2 - Paraná
     char estado2 = 'B';
     char codigo2[] = "B02";
-    char nomeCidade2[] = "Rio de Janeiro";
-    int populacao2 = 6748000;
-    float area2 = 1200.25;
-    float pib2 = 300.50; // bilhões de reais
-    int pontosTuristicos2 = 30;
+    char nomeCidade2[] = "Curitiba";
+    int populacao2 = 11824665;
+    float area2 = 199.307;
+    float pib2 = 718,9; // bilhões de reais
+    int pontosTuristicos2 = 2.058;
 
     // Exibição dos Dados - Carta 1
     printf("=== Carta 1 ===\n");
