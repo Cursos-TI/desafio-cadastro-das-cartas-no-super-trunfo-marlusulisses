@@ -4,14 +4,14 @@
 // Tema 1 - Cadastro das Cartas
 // Este código realiza o cadastro fixo de duas cartas com informações de cidades brasileiras.
 
-int main() {
-    // Variáveis da Carta 1 - São Paulo
+int main() {   
+    // Variáveis da Carta 1 - Minas Gerais
     char estado1 = 'A';
     char codigo1[] = "A01";
-    char nomeCidade1[] = "São Paulo";
-    int populacao1 = 12325000;
-    float area1 = 1521.11;
-    float pib1 = 699.28; // bilhões de reais
+    char nomeCidade1[] = "Belo Horizonte";
+    int populacao1 = 2.416.339;
+    float area1 = 586.528;
+    float pib1 = 1,06; // trilhões de reais
     int pontosTuristicos1 = 50;
 
     // Variáveis da Carta 2 - Rio de Janeiro
